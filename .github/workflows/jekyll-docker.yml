@@ -16,12 +16,12 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v2
         with:
-          context: .  # ビルドするコンテキスト（Dockerfileとその周辺ファイルがあるディレクトリ）
-          push: true  # ビルドしたイメージをプッシュするかどうか（trueに設定することでDocker Hubなどにプッシュ）
+          context: . # ビルドするコンテキスト（Dockerfileとその周辺ファイルがあるディレクトリ）
+          push: true # ビルドしたイメージをプッシュするかどうか（trueに設定することでDocker Hubなどにプッシュ）
 
-        # Docker Hubにプッシュする場合は、下記のsecrets.DOCKER_HUB_USERNAMEとsecrets.DOCKER_HUB_TOKENを設定します。
-        - name: Log in to Docker Hub
-          uses: docker/login-action@v1
-          with:
-            username: ${{ secrets.DOCKER_HUB_USERNAME }}
-            password: ${{ secrets.DOCKER_HUB_TOKEN }}
+      # Docker Hubにプッシュする場合は、下記のsecrets.DOCKER_HUB_USERNAMEとsecrets.DOCKER_HUB_TOKENを設定する。
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKER_HUB_USERNAME }}
+          password: ${{ secrets.DOCKER_HUB_TOKEN }}
