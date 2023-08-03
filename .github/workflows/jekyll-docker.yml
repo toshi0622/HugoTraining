@@ -19,10 +19,9 @@ jobs:
           context: . # Dockerfileがあるディレクトリへのパス
           push: true
           tags: toshi0622/hugotraining:latest # ここに適切なDocker Hubのイメージ名を指定します。
-        # env:
+          # env:
           # DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }} # Docker Hubのユーザー名をGitHubのリポジトリのSecretsに設定しておく必要があります。
           # DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }} # Docker HubのパスワードをGitHubのリポジトリのSecretsに設定しておく必要があります。
 
-        with:
           username: ${{ secrets.DOCKER_HUB_USERNAME }}
           password: ${{ secrets.DOCKER_HUB_TOKEN }}
