@@ -24,7 +24,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v3
         with:
-          images: mu777/odrive-cli
+          images: toshi0622/hugotraining
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v2
