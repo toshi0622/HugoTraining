@@ -4,21 +4,33 @@
     min = "0.80.0"
 
 baseURL = 'http://gohugo.io/'
-languageCode = 'en-us'
+languageCode = 'ja'
 theme = "hugo-theme-nightfall"
 
 [menu]
   [[menu.header]]
-    name = "Blog"
-    weight = 0
-    url = "blog"
-  [[menu.header]]
-    name = "About"
+    name = "会社概要"
     weight = 1
     url = "about"
+  [[menu.header]]
+    name = "サービス"
+    weight = 2
+    url = "/"
+  [[menu.header]]
+    name = "採用情報"
+    weight = 3
+    url = "/"
+  [[menu.header]]
+    name = "ブログ"
+    weight = 4
+    url = "blog"
+  [[menu.header]]
+    name = "お問い合わせ"
+    weight = 5
+    url = "/"
 
 [params]
-author = "Hugo Nightfall"
+author = "株式会社NOTE"
 user = "hello"
 hostname = "gohugo.io"
 
