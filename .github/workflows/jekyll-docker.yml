@@ -18,6 +18,9 @@ jobs:
         with:
           context: . # ビルドするコンテキスト（Dockerfileとその周辺ファイルがあるディレクトリ）
           push: true # ビルドしたイメージをプッシュするかどうか（trueに設定することでDocker Hubなどにプッシュ）
+          tags: |
+            toshi0622/hugotraining:latest
+            toshi0622/hugotraining:v1.0
 
       # Docker Hubにプッシュする場合は、下記のsecrets.DOCKER_HUB_USERNAMEとsecrets.DOCKER_HUB_TOKENを設定する。
       - name: Log in to Docker Hub
@@ -32,12 +35,3 @@ jobs:
         uses: docker/metadata-action@v3
         with:
           images: toshi0622/hugotraining
-
-      # tagの設定を行うことでイメージのバージョンや識別子として機能。
-      - name: Build and push Docker image
-        uses: docker/build-push-action@v2
-        with:
-          context: .
-          push: true
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
