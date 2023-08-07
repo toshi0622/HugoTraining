@@ -3,8 +3,8 @@
     extended = true
     min = "0.80.0"
 
-baseURL = 'https://hugotraining.github.io'
-languageCode = 'ja'
+baseURL = "https://hugotraining.github.io"
+languageCode = "ja"
 theme = "hugo-theme-nightfall"
 
 [menu]
