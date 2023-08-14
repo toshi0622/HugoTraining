@@ -7,11 +7,15 @@ baseURL = "https://toshi0622.github.io"
 languageCode = "ja"
 theme = "hugo-theme-nightfall"
 
+baseURL = "http://localhost:8080/"
+languageCode = "ja"
+theme = "hugo-theme-nightfall"
+
 [menu]
   [[menu.header]]
     name = "会社概要"
     weight = 1
-    url = "/exampleSite/content/about"
+    url = "/"
   [[menu.header]]
     name = "サービス"
     weight = 2
@@ -23,7 +27,7 @@ theme = "hugo-theme-nightfall"
   [[menu.header]]
     name = "ブログ"
     weight = 4
-    url = "blog"
+    url = "/"
   [[menu.header]]
     name = "お問い合わせ"
     weight = 5
