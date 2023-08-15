@@ -45,19 +45,13 @@ published = true  # Show published data on post page
 key = 0
 name = "Instagram"
 url = "https://www.instagram.com/"
-pre = "<a href='https://www.instagram.com/' target='_blank'>"
-post = "</a>"
 
 [[params.social]]
 key = 1
 name = "Twitter"
 url = "https://twitter.com/?lang=ja"
-pre = "<a href='https://twitter.com/?lang=ja' target='_blank'>"
-post = "</a>"
 
 [[params.social]]
 key = 2
 name = "Email"
 url = "mailto:email@example.com"
-pre = "<a href='mailto:email@example.com' target='_blank'>"
-post = "</a>"
