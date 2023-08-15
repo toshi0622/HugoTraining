@@ -7,35 +7,27 @@ baseURL = "https://toshi0622.github.io"
 languageCode = "ja"
 theme = "hugo-theme-nightfall"
 
-baseURL = "http://localhost:8080/"
-languageCode = "ja"
-theme = "hugo-theme-nightfall"
-
 [menu]
   [[menu.header]]
-    name = "会社概要"
+    name = "ホーム"
     weight = 1
     url = "/"
   [[menu.header]]
-    name = "サービス"
+    name = "企業情報"
     weight = 2
-    url = "/"
+    url = "/information/"
   [[menu.header]]
-    name = "採用情報"
+    name = "事業戦略"
     weight = 3
-    url = "/"
+    url = "/strategy/"
   [[menu.header]]
-    name = "ブログ"
+    name = "お知らせ"
     weight = 4
-    url = "/"
-  [[menu.header]]
-    name = "お問い合わせ"
-    weight = 5
-    url = "/"
+    url = "/post/"
 
 [params]
 author = "株式会社NOTE"
-user = "Tanaka"
+user = "Yamada"
 hostname = "gohugo.io"
 
 readingTime = true  # Show reading time on post page
