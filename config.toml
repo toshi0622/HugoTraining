@@ -1,10 +1,5 @@
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.80.0"
-
-baseURL = "https://toshi0622.github.io"
-languageCode = "ja"
+baseURL = "https://toshi0622.github.io/"
+languageCode = "ja-jp"
 theme = "hugo-theme-nightfall"
 publishDir = "docs"
 canonifyurls = true
