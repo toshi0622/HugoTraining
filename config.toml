@@ -6,6 +6,8 @@
 baseURL = "https://toshi0622.github.io"
 languageCode = "ja"
 theme = "hugo-theme-nightfall"
+publishDir = "docs"
+canonifyurls = true
 
 [permalinks]
     news = "/news/:year/:month/:day/:slug/"
