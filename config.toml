@@ -10,7 +10,7 @@ publishDir = "docs"
 canonifyurls = true
 
 [permalinks]
-    news = "/news/:year/:month/:day/:slug/"
+    news = "/:sections/:year/:month/:day/:slug/"
 
 [menu]
   [[menu.header]]
