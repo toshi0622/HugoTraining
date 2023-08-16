@@ -3,7 +3,7 @@ title: "本社移転のお知らせ"
 slug: transfer
 date: 2015-12-01
 with_date: true
-tags: ["corporation", "naming"]
+tags: ["corporation", "news"]
 ---
 
 新たなる環境で更なる発展を目指します

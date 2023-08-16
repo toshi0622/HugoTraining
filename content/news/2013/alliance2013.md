@@ -3,7 +3,7 @@ title: "重要なお知らせ"
 slug: alliance2013
 date: 2013-10-01
 with_date: true
-tags: ["corporation", "naming"]
+tags: ["corporation", "news"]
 ---
 
 成長戦略の一環として株式取得、グループ化が完了しました

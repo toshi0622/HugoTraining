@@ -3,7 +3,7 @@ title: "大切なお知らせ"
 slug: listing
 date: 2022-12-01
 with_date: true
-tags: ["corporation", "naming"]
+tags: ["corporation", "news"]
 ---
 
 東京証券取引所第 1 部への上場が承認されました
