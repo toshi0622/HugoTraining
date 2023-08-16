@@ -3,7 +3,7 @@ title: "重要なお知らせ"
 slug: alliance2023
 date: 2023-08-01
 with_date: true
-tags: ["corporation", "naming"]
+tags: ["corporation", "news"]
 ---
 
 成長戦略の一環として株式取得、グループ化が完了しました

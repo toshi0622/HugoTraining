@@ -3,7 +3,7 @@ title: "会社を設立しました"
 slug: established
 date: 2010-10-01
 with_date: true
-tags: ["corporation", "naming"]
+tags: ["corporation", "news"]
 ---
 
 新たなるスタート！株式会社 NOTE が設立されました
