@@ -8,7 +8,8 @@ languageCode = "ja"
 theme = "hugo-theme-nightfall"
 
 [permalinks]
-    news = "/:sections/:year/:month/:day/:slug/"
+    news = "/:news/:year/:month/:day/:slug/"
+    company = "/:news/:year/:month/:day/:slug/"
 
 [menu]
   [[menu.header]]
