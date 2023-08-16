@@ -5,40 +5,63 @@
     <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>COMPANY OVERVIEW ～企業情報～</title>
-      <link>/information/about/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <title>Strategy ～事業戦略～</title>
+      <link>/strategy/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/information/about/</guid>
-      <description>当社は小さな会社です。しかし、小さい会社だからこそできることもあると考えています。
-クラウドベンダーの台頭により、 Web アプリケーションを開発するときに必要なインフラの初期コストはずっと低くなりました。 そのため、以前と比べてシステム開発はずっと安価に少ない量で開発できるようになっています。 しかし、安価であっても、インフラはクラウドベンダーが保証してくれるため、 大企業に匹敵するほどの強力なインフラを最初から利用できます。
-一方でシステム開発の個々の要素にあたるコンポーネントは複雑化・多様化し、 それぞれのコンポーネントを組み合わせることに専門的な知見が求められる傾向がさらに強くなってきました。 作りたい Web アプリケーションの機能やスコープ、規模や展望によって選択肢がかわってきます。
-当社はお客様の困ったときに相談でき、一緒に課題を考えながら解決に取り組む会社になります。
-会社概要 会社名  株式会社 NOTE  本社所在地  〒 100-0000 東京都テスト区サンプル 1 丁目 1 番 1 号 東京テストビル 11 階  設立年月日  2010 年 10 月 1 日  資本金  1,000,000 円  事業内容  システム開発 IT に関するコンサルティング  従業員  100 名（2023 年 8 月時点）  アクセス  東京メトロ銀座線 銀座駅 1 番出口 徒歩 5 分 東京メトロ銀座線 京橋駅 2 番出口 徒歩 10 分 東京メトロ銀座線 新橋駅 3 番出口 徒歩 10 分  役員紹介  代表取締役：山田 太郎 常務取締役：山田 花子 取締役：山田 一郎 取締役：山田 次郎 取締役：田中 太郎  </description>
+      <guid>/strategy/</guid>
+      <description>私たちが創っているのは、答えです。  NOTE は単なるシステム開発会社でもなく、単なるエンジニア派遣会社でもなく、答えを創る会社です。人と人をつなぐ。テクノロジーと人をつなぐ。それは、人を未来につなぐということ。 どんなにテクノロジーが進化したとしても、NOTE は人を中心に未来を考えます。
+変化する社会の中でテクノロジーと人財でコミュニケーションを支え、さまざまな答えを創造する。 人から始まる未来。人とつながる未来。すべてのテクノロジーは、人のために。 さぁ、NOTE と一緒に未知の領域へ。
+IT コンサルティング  クライアントの潜在ニーズをくみ取り、経営課題の根本的な解決につながるソリューションをご提案。 IT システムの企画・立案のみならず、開発・保守運用に関わるプロジェクト・マネジメントも。
+システム開発  クライアントのご要望に応じて、IT システムの企画・開発等を請け負う「受託開発」、 または IT システムの開発を支援する「IT エンジニア派遣」を柔軟に切り替え、サービスを提供。
+保守運用  IT サポートデスク運用などのアウトソーシング、ネットワーク・サーバーの IT インフラの構築・保守運用など、 IT システム開発後も円滑な運用支援をし、更なる最適化に向けて継続的にサービスを提供。</description>
+    </item>
+    
+    <item>
+      <title>MISSION ～企業理念～</title>
+      <link>/company/mission/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/company/mission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>重要なお知らせ</title>
+      <link>/news/2023/alliance2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/alliance2023/</guid>
+      <description>&lt;p&gt;成長戦略の一環として株式取得、グループ化が完了しました&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COMPANY OVERVIEW ～企業概要～</title>
+      <link>/company/about/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/company/about/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>History ～沿革～</title>
-      <link>/information/history/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <link>/company/history/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/information/history/</guid>
-      <description> 2009 年 01 月: 個人事業主としての活動を始める 2010 年 12 月: 株式会社 NOTE を設立 2013 年 10 月: 株式会社テストの株式を取得し、グループ入り 2015 年 12 月: 本社を東京に移転 2022 年 12 月: 東京証券取引所 1 部上場 2023 年 08 月: 株式会社サンプルの株式を取得し、グループ入り  </description>
+      <guid>/company/history/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Strategy ～事業戦略～</title>
-      <link>/strategy/</link>
-      <pubDate>Tue, 10 Dec 2019 19:43:30 +0900</pubDate>
+      <title>大切なお知らせ</title>
+      <link>/news/2022/listing/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/strategy/</guid>
-      <description>私たちが創っているのは、答えです。 HCH は単なるシステム開発会社でもなく、単なるエンジニア派遣会社でもなく、答えを創る会社です。人と人をつなぐ。テクノロジーと人をつなぐ。それは、人を未来につなぐということ。 どんなにテクノロジーが進化したとしても、HCH は人を中心に未来を考えます。
-変化する社会の中でテクノロジーと人財でコミュニケーションを支え、さまざまな答えを創造する。 人から始まる未来。人とつながる未来。すべてのテクノロジーは、人のために。 さぁ、HCH と一緒に未知の領域へ。
-システム開発 お客様の課題を解決するために開発者としてシステム開発に参加します。 プログラミング言語では Python, Go, Java によるインフラ／サーバーサイドの開発を得意としています。
-新規開発ならびに既存システムの改修、アーキテクチャのリファクタリング、 負荷テストやパフォーマンス改善など、 どのような開発案件でも柔軟に対応して取り組みます。
-IT コンサルティング 要件定義・設計・開発・保守といった一連のシステム開発に関する業務の中で システムやプログラムといった成果物をともなわない形態での支援を行います。 お客様の要望や状況にあわせたサービスをご提供いたします。</description>
+      <guid>/news/2022/listing/</guid>
+      <description>&lt;p&gt;東京証券取引所第 1 部への上場が承認されました&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -56,7 +79,8 @@ IT コンサルティング 要件定義・設計・開発・保守といった�
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
     
     <item>
@@ -84,6 +108,33 @@ IT コンサルティング 要件定義・設計・開発・保守といった�
       
       <guid>/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>本社移転のお知らせ</title>
+      <link>/news/2015/transfer/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2015/transfer/</guid>
+      <description>&lt;p&gt;新たなる環境で更なる発展を目指します&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>重要なお知らせ</title>
+      <link>/news/2013/alliance2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2013/alliance2013/</guid>
+      <description>&lt;p&gt;成長戦略の一環として株式取得、グループ化が完了しました&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>会社を設立しました</title>
+      <link>/news/2010/established/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2010/established/</guid>
+      <description>&lt;p&gt;新たなるスタート！株式会社 NOTE が設立されました&lt;/p&gt;</description>
     </item>
     
   </channel>
