@@ -14,7 +14,7 @@ canonifyurls = true
 
 [menu]
   [[menu.header]]
-    name = "ホーム"
+    name = "HOME"
     weight = 1
     url = "/"
   [[menu.header]]
