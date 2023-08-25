@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Company Profile on </title>
+    <title>Company -会社情報- on </title>
     <link>/company/</link>
-    <description>Recent content in Company Profile on </description>
+    <description>Recent content in Company -会社情報- on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/company/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MISSION ～企業理念～</title>
+      <title>CEO Message -代表挨拶-</title>
+      <link>/company/message/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/company/message/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mission -LINKが追い求め続ける社会への使命-</title>
       <link>/company/mission/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
@@ -16,7 +25,7 @@
     </item>
     
     <item>
-      <title>COMPANY OVERVIEW ～企業概要～</title>
+      <title>Company Overview -企業概要-</title>
       <link>/company/about/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
@@ -25,7 +34,7 @@
     </item>
     
     <item>
-      <title>History ～沿革～</title>
+      <title>History -沿革-</title>
       <link>/company/history/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       

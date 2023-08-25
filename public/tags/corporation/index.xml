@@ -7,20 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/corporation/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Strategy ～事業戦略～</title>
-      <link>/strategy/</link>
+      <title>Recruit -採用情報-</title>
+      <link>/recruit/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/strategy/</guid>
-      <description>私たちが創っているのは、答えです。  NOTE は単なるシステム開発会社でもなく、単なるエンジニア派遣会社でもなく、答えを創る会社です。人と人をつなぐ。テクノロジーと人をつなぐ。それは、人を未来につなぐということ。 どんなにテクノロジーが進化したとしても、NOTE は人を中心に未来を考えます。
-変化する社会の中でテクノロジーと人財でコミュニケーションを支え、さまざまな答えを創造する。 人から始まる未来。人とつながる未来。すべてのテクノロジーは、人のために。 さぁ、NOTE と一緒に未知の領域へ。
-IT コンサルティング  クライアントの潜在ニーズをくみ取り、経営課題の根本的な解決につながるソリューションをご提案。 IT システムの企画・立案のみならず、開発・保守運用に関わるプロジェクト・マネジメントも。
-システム開発  クライアントのご要望に応じて、IT システムの企画・開発等を請け負う「受託開発」、 または IT システムの開発を支援する「IT エンジニア派遣」を柔軟に切り替え、サービスを提供。
-保守運用  IT サポートデスク運用などのアウトソーシング、ネットワーク・サーバーの IT インフラの構築・保守運用など、 IT システム開発後も円滑な運用支援をし、更なる最適化に向けて継続的にサービスを提供。</description>
+      <guid>/recruit/</guid>
+      <description>一緒に未来を創る Create The Future Together 私たちは、新たな未来を築くための仲間を募集しています。 採用情報を通じて、私たちのビジョンや価値観に共感し、一緒に成長していける方々との出会いを楽しみにしています。 あなたの才能や熱意が私たちの成果となります。未来への LINK を共に創っていきましょう。
+ わたしたちが大切にしていること 【チームワークと共感】
+私たちは、個々の力が集結するチームワークの重要性を深く信じています。 お互いに共感し、理解し合いながら、共通の目標を実現するために努力しています。 私たちのチームは、多様なスキルを持つメンバーから成り立ち、それぞれの強みを尊重し合っています。
+チームワークは単なる協力だけではありません。私たちは誰もが活発な参加を促し、アイデアや視点の違いを歓迎しています。 新しいアイデアが生まれるたびに、私たちのチームは成長し、進化します。 お互いに刺激し合う環境の中で、最高の成果を追求しています。
+私たちは、チームワークを通じて新たなアイデアと創造性を引き出し、絶えず向上し続ける場を提供しています。 私たちの一員として、あなたもチームの一部として共に成長し、未来を創り上げる仲間として歓迎します。
+ データで見る LINK 従業員数 / 100 人　平均年齢 / 40 歳　男女比率（男：女） / 5：5
+有給取得日数 / 12 日　育休取得率（男：女） / 52% : 100%　育休からの復帰率 / 100%
+新卒中途比率 / 2：8 3 年以内退職率 / 1%　月の平均残業時間数 / 10 時間
+ 福利厚生 ここに福利厚生に関する紹介文が入ります。
+ 募集職種 ここに募集要項に関する紹介文が入ります。
+ </description>
     </item>
     
     <item>
-      <title>MISSION ～企業理念～</title>
+      <title>System Advise Pro</title>
+      <link>/service/systemreviewsupport/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/service/systemreviewsupport/</guid>
+      <description>&lt;p&gt;社内システムを使っているが、成果が出ない&lt;br&gt;
+新たなシステムを導入したいが予算は限られている&lt;br&gt;
+システム運用中のお悩みの企業さまへ&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tech Care Assist</title>
+      <link>/service/systemoperationandmaintenance/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/service/systemoperationandmaintenance/</guid>
+      <description>&lt;p&gt;システム障害が発生した際に、すぐに対応できない&lt;br&gt;
+電話・リモート・常駐と幅広く提案してくれる企業にお願いしたい&lt;br&gt;
+他にもシステムの運用・保守周りでお悩みの企業さまへ&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tech Support Link</title>
+      <link>/service/inhouseseagency/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/service/inhouseseagency/</guid>
+      <description>&lt;p&gt;業務量が増えて、残業しないと対応できない&lt;br&gt;
+システム担当者が退職、とても育成に時間がかけられない&lt;br&gt;
+他にもシステム周りでお悩みの企業さまへ&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CEO Message -代表挨拶-</title>
+      <link>/company/message/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/company/message/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mission -LINKが追い求め続ける社会への使命-</title>
       <link>/company/mission/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
@@ -29,16 +77,16 @@ IT コンサルティング  クライアントの潜在ニーズをくみ取り
     </item>
     
     <item>
-      <title>重要なお知らせ</title>
-      <link>/news/2023/08/01/alliance2023/</link>
+      <title>重要なお知らせ -株式取得とグループ化について-</title>
+      <link>/news/2023/alliance2023/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/news/2023/08/01/alliance2023/</guid>
-      <description>&lt;p&gt;成長戦略の一環として株式取得、グループ化が完了しました&lt;/p&gt;</description>
+      <guid>/news/2023/alliance2023/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>COMPANY OVERVIEW ～企業概要～</title>
+      <title>Company Overview -企業概要-</title>
       <link>/company/about/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
@@ -47,7 +95,7 @@ IT コンサルティング  クライアントの潜在ニーズをくみ取り
     </item>
     
     <item>
-      <title>History ～沿革～</title>
+      <title>History -沿革-</title>
       <link>/company/history/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
@@ -56,39 +104,39 @@ IT コンサルティング  クライアントの潜在ニーズをくみ取り
     </item>
     
     <item>
-      <title>大切なお知らせ</title>
-      <link>/news/2022/12/01/listing/</link>
+      <title>大切なお知らせ -上場が承認されました-</title>
+      <link>/news/2022/listing/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/news/2022/12/01/listing/</guid>
-      <description>&lt;p&gt;東京証券取引所第 1 部への上場が承認されました&lt;/p&gt;</description>
+      <guid>/news/2022/listing/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>本社移転のお知らせ</title>
-      <link>/news/2015/12/01/transfer/</link>
+      <title>本社移転のお知らせ -更なる発展へ-</title>
+      <link>/news/2015/transfer/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/news/2015/12/01/transfer/</guid>
-      <description>&lt;p&gt;新たなる環境で更なる発展を目指します&lt;/p&gt;</description>
+      <guid>/news/2015/transfer/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>重要なお知らせ</title>
-      <link>/news/2013/10/01/alliance2013/</link>
+      <title>重要なお知らせ -株式取得とグループ化について-</title>
+      <link>/news/2013/alliance2013/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>/news/2013/10/01/alliance2013/</guid>
-      <description>&lt;p&gt;成長戦略の一環として株式取得、グループ化が完了しました&lt;/p&gt;</description>
+      <guid>/news/2013/alliance2013/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>会社を設立しました</title>
-      <link>/news/2010/10/01/established/</link>
+      <link>/news/2010/established/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>/news/2010/10/01/established/</guid>
-      <description>&lt;p&gt;新たなるスタート！株式会社 NOTE が設立されました&lt;/p&gt;</description>
+      <guid>/news/2010/established/</guid>
+      <description></description>
     </item>
     
   </channel>
