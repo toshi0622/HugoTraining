@@ -9,30 +9,31 @@ theme = "hugo-theme-nightfall"
 publishDir = "docs"
 canonifyurls = true
 
-[permalinks]
-    news = "/:sections/:year/:month/:day/:slug/"
-
 [menu]
   [[menu.header]]
-    name = "HOME"
+    name = "ホーム"
     weight = 1
     url = "/"
   [[menu.header]]
-    name = "企業情報"
+    name = "会社情報"
     weight = 2
     url = "/company/"
   [[menu.header]]
-    name = "事業戦略"
+    name = "サービス"
     weight = 3
-    url = "/strategy/"
+    url = "/service/"
+  [[menu.header]]
+    name = "採用情報"
+    weight = 4
+    url = "/recruit/"
   [[menu.header]]
     name = "お知らせ"
-    weight = 4
+    weight = 5
     url = "/news/"
 
 [params]
-author = "Revolution through IT"
-user = "株式会社NOTE"
+author = "LINK to the future"
+user = "株式会社LINK"
 mainSections = ["index"]
 
 readingTime = true  # Show reading time on post page
@@ -45,7 +46,7 @@ url = "https://www.instagram.com/"
 
 [[params.social]]
 key = 1
-name = "Twitter"
+name = "X(旧Twitter)"
 url = "https://twitter.com/?lang=ja"
 
 [[params.social]]
