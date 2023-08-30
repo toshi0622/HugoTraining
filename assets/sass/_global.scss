@@ -8,7 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-image: url('/images/job_2.jpg');
+  background-image: url('/images/server_2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: $blue;
+  color: $lightblue;
 }
 
 pre code {
