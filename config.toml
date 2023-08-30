@@ -11,31 +11,20 @@ canonifyurls = true
 
 [menu]
   [[menu.header]]
-    name = "ホーム"
+    name = "株式会社LINK"
     weight = 1
     url = "/"
-  [[menu.header]]
-    name = "サービス"
-    weight = 2
-    url = "/service/"
-  [[menu.header]]
-    name = "会社情報"
-    weight = 3
-    url = "/company/"
-  [[menu.header]]
-    name = "採用情報"
-    weight = 4
-    url = "/recruit/"
-  [[menu.header]]
-    name = "お知らせ"
-    weight = 5
-    url = "/news/"
 
 [params]
 author = "IT周りの改善を月額6万円で"
-about_link = "/news/"
-user = "株式会社LINK"
+about_link = "/service/"
 mainSections = ["index"]
+footer_links = [
+  { name = " < 会社情報 > ", link = "/company/" },
+  { name = " < サービス > ", link = "/service/" },
+  { name = " < 採用情報 > ", link = "/recruit/" },
+  { name = " < お知らせ > ", link = "/news/" }
+]
 
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
