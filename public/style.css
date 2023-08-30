@@ -1,0 +1,7 @@
+body {
+    background-image: url('/images/job_2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    z-index: -1; /* 背景画像を他の要素よりも背面に配置 */
+  }

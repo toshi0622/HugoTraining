@@ -7,7 +7,7 @@ tags: ["corporation"]
 
 <!--more-->
 
-# システムの結びつき、未来への LINK
+# システムとの結びつき、未来への LINK
 
 ---
 
