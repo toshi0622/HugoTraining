@@ -5,7 +5,7 @@
     {{ partial "head.html" . }}
   </head>
 
-  <body style="background-image: url('/images/job_2.jpg')">
+  <body style="background-image: url('/images/server_2.jpg')">
     <div class="flexWrapper">
       {{ partial "header.html" . }}
 
@@ -14,6 +14,9 @@
           <div class="indexWrapper">
             <div>
               <h1 class="indexHeader">{{ .Site.Params.author }}</h1>
+              <h2>
+                <a href="{{ .Site.Params.about_link }}">>>詳しく見る</a>
+              </h2>
             </div>
             {{ if isset .Site.Params "social" }} {{ partial "social.html" . }}
             {{ end }}
