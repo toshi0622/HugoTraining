@@ -32,7 +32,7 @@ canonifyurls = true
     url = "/news/"
 
 [params]
-author = "LINK to the future"
+author = "IT周りの改善は月額6万円で"
 user = "株式会社LINK"
 mainSections = ["index"]
 
