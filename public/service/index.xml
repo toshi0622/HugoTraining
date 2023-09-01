@@ -7,17 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>System Advise Pro</title>
-      <link>/service/systemreviewsupport/</link>
-      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/service/systemreviewsupport/</guid>
-      <description>&lt;p&gt;社内システムを使っているが、成果が出ない&lt;br&gt;
-新たなシステムを導入したいが予算は限られている&lt;br&gt;
-システム運用中のお悩みの企業さまへ&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Tech Care Assist</title>
       <link>/service/systemoperationandmaintenance/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
@@ -37,6 +26,17 @@
       <description>&lt;p&gt;業務量が増えて、残業しないと対応できない&lt;br&gt;
 システム担当者が退職、とても育成に時間がかけられない&lt;br&gt;
 他にもシステム周りでお悩みの企業さまへ&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>システム活用支援</title>
+      <link>/service/systemreviewsupport/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/service/systemreviewsupport/</guid>
+      <description>&lt;p&gt;社内システムを使っているが、成果が出ない&lt;br&gt;
+新たなシステムを導入したいが予算は限られている&lt;br&gt;
+システム運用中のお悩みの企業さまへ&lt;/p&gt;</description>
     </item>
     
   </channel>
