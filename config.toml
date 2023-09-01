@@ -8,6 +8,8 @@ languageCode = "ja"
 theme = "hugo-theme-nightfall"
 publishDir = "docs"
 canonifyurls = true
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
 
 [menu]
   [[menu.header]]
@@ -16,8 +18,8 @@ canonifyurls = true
     url = "/"
 
 [params]
-author = "IT周りの改善を月額6万円で"
-about_link = "/service/"
+author = "IT周りの改善を月額5万円で"
+about_link = "/landingPageAboutServices/"
 mainSections = ["index"]
 footer_links = [
   { name = " < 会社情報 > ", link = "/company/" },
@@ -25,9 +27,6 @@ footer_links = [
   { name = " < 採用情報 > ", link = "/recruit/" },
   { name = " < お知らせ > ", link = "/news/" }
 ]
-
-readingTime = true  # Show reading time on post page
-published = true  # Show published data on post page
 
 [[params.social]]
 key = 0
