@@ -35,17 +35,6 @@
     </item>
     
     <item>
-      <title>Tech Care Assist</title>
-      <link>/service/systemoperationandmaintenance/</link>
-      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/service/systemoperationandmaintenance/</guid>
-      <description>&lt;p&gt;システム障害が発生した際に、すぐに対応できない&lt;br&gt;
-電話・リモート・常駐と幅広く提案してくれる企業にお願いしたい&lt;br&gt;
-他にもシステムの運用・保守周りでお悩みの企業さまへ&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Tech Support Link</title>
       <link>/service/inhouseseagency/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
@@ -65,6 +54,17 @@
       <description>&lt;p&gt;社内システムを使っているが、成果が出ない&lt;br&gt;
 新たなシステムを導入したいが予算は限られている&lt;br&gt;
 システム運用中のお悩みの企業さまへ&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>システム運用保守</title>
+      <link>/service/systemoperationandmaintenance/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/service/systemoperationandmaintenance/</guid>
+      <description>&lt;p&gt;システム障害が発生した際に、すぐに対応できない&lt;br&gt;
+電話・リモート・常駐と幅広く提案してくれる企業にお願いしたい&lt;br&gt;
+他にもシステムの運用・保守周りでお悩みの企業さまへ&lt;/p&gt;</description>
     </item>
     
     <item>
