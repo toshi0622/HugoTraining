@@ -18,7 +18,7 @@ published = true  # Show published data on post page
     url = "/"
 
 [params]
-author = "IT周りの改善を月額5万円で"
+author = "IT周りのお悩みを1週間で改善!"
 about_link = "/landingPageAboutServices/"
 mainSections = ["index"]
 footer_links = [
