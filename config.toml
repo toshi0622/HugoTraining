@@ -28,9 +28,3 @@ published = true  # Show published data on post page
 author = "IT周りのお悩みを1週間で改善!"
 about_link = "/landingPageAboutServices/"
 mainSections = ["index"]
-footer_links = [
-  { name = " < 会社情報 > ", link = "/company/" },
-  { name = " < サービス > ", link = "/service/" },
-  { name = " < 採用情報 > ", link = "/recruit/" },
-  { name = " < お知らせ > ", link = "/news/" },
-]
