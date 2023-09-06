@@ -3,6 +3,9 @@
     extended = true
     min = "0.80.0"
 
+[blackfriday]
+hrefTargetBlank = true
+
 baseURL = "https://toshi0622.github.io"
 languageCode = "ja"
 theme = "hugo-theme-nightfall"
@@ -16,6 +19,10 @@ published = true  # Show published data on post page
     name = "株式会社LINK"
     weight = 1
     url = "/"
+  [[menu.header]]
+    name = "お問い合わせ"
+    weight = 2
+    url = "/inquiry"
 
 [params]
 author = "IT周りのお悩みを1週間で改善!"
@@ -25,20 +32,5 @@ footer_links = [
   { name = " < 会社情報 > ", link = "/company/" },
   { name = " < サービス > ", link = "/service/" },
   { name = " < 採用情報 > ", link = "/recruit/" },
-  { name = " < お知らせ > ", link = "/news/" }
+  { name = " < お知らせ > ", link = "/news/" },
 ]
-
-[[params.social]]
-key = 0
-name = "Instagram"
-url = "https://www.instagram.com/"
-
-[[params.social]]
-key = 1
-name = "X(旧Twitter)"
-url = "https://twitter.com/?lang=ja"
-
-[[params.social]]
-key = 2
-name = "Email"
-url = "mailto:email@example.com"
