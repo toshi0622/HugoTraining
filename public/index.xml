@@ -8,6 +8,19 @@
     <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>/inquiry/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/inquiry/</guid>
+      <description>サービスについては、お客様に合わせてカスタマイズすることが可能です。
+お問い合わせはお電話またはお問い合わせフォームのどちらからでも受け付けております。
+ご不明な点やご相談などは、遠慮なくお問い合わせ下さい。
+ お電話でのお問い合わせ 0120-11-2222 受付時間（09:00 ～ 18:00）  フォームでのお問い合わせ 下記リンクを押下してください（新しいタブで開きます）
+フォームへ ⇒  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/landingpageaboutservices/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
@@ -136,7 +149,7 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34; target=&#34;_blank&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
     
