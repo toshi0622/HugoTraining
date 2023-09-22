@@ -25,6 +25,6 @@ published = true  # Show published data on post page
     url = "/inquiry"
 
 [params]
-author = "IT周りのお悩みを1週間で改善!"
+author = "IT周りのお悩みを1週間で改善!?"
 about_link = "/landingpageaboutservices/"
 mainSections = ["index"]
