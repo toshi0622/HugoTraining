@@ -15,9 +15,8 @@ jobs:
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
-
-      # ビルドコマンドを走らせる。installを忘れないこと。
-      - run: yarn install && yarn build
+        with:
+          hugo-version: '0.118.2' # 使用するHugoのバージョンを指定
 
       - name: Build Hugo Site
         run: hugo --minify
